@@ -1,0 +1,25 @@
+C:\Users\Dou\Desktop\GorselProg 02.06\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Dou\Desktop\GorselProg 02.06\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Dou\Desktop\GorselProg 02.06\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Dou\Desktop\GorselProg 02.06\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Dou\Desktop\GorselProg 02.06\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Dou\Desktop\GorselProg 02.06\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KullaniciGirisKayitSayfasi.resources
+C:\Users\Dou\Desktop\GorselProg 02.06\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Dou\Desktop\GorselProg 02.06\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Dou\Desktop\GorselProg 02.06\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Dou\Desktop\GorselProg 02.06\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Dou\Desktop\GorselProg 02.06\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.YoneticiSayisi.resources
+C:\Users\Dou\Desktop\GorselProg 02.06\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KullaniciSayfasi.resources
+C:\Users\Gunes\Downloads\Compressed\WindowsFormsApp1-20240722T165102Z-001\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Gunes\Downloads\Compressed\WindowsFormsApp1-20240722T165102Z-001\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Gunes\Downloads\Compressed\WindowsFormsApp1-20240722T165102Z-001\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Gunes\Downloads\Compressed\WindowsFormsApp1-20240722T165102Z-001\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Gunes\Downloads\Compressed\WindowsFormsApp1-20240722T165102Z-001\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Gunes\Downloads\Compressed\WindowsFormsApp1-20240722T165102Z-001\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KullaniciGirisKayitSayfasi.resources
+C:\Users\Gunes\Downloads\Compressed\WindowsFormsApp1-20240722T165102Z-001\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KullaniciSayfasi.resources
+C:\Users\Gunes\Downloads\Compressed\WindowsFormsApp1-20240722T165102Z-001\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Gunes\Downloads\Compressed\WindowsFormsApp1-20240722T165102Z-001\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.YoneticiSayisi.resources
+C:\Users\Gunes\Downloads\Compressed\WindowsFormsApp1-20240722T165102Z-001\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Gunes\Downloads\Compressed\WindowsFormsApp1-20240722T165102Z-001\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Gunes\Downloads\Compressed\WindowsFormsApp1-20240722T165102Z-001\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Gunes\Downloads\Compressed\WindowsFormsApp1-20240722T165102Z-001\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
